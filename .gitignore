@@ -1,1 +1,5 @@
 /.idea/
+/.venv/
+/code-converter/.env
+/code-converter/output-app/*
+/code-converter/input-app/*
